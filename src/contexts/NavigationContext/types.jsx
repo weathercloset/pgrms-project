@@ -1,0 +1,13 @@
+export const COMMENTS_PAGE = 'COMMENTS_PAGE';
+export const EXPLORE_PAGE = 'EXPLORE_PAGE';
+export const HOME_PAGE = 'HOME_PAGE';
+export const LOGIN_PAGE = 'LOGIN_PAGE';
+export const NOT_FOUND_PAGE = 'NOT_FOUND_PAGE';
+export const NOTIFICATIONS_PAGE = 'NOTIFICATIONS_PAGE';
+export const POST_PAGE = 'POST_PAGE';
+export const SIGNUP_PAGE = 'SIGNUP_PAGE';
+export const UPLOAD_PAGE = 'UPLOAD_PAGE';
+export const USER_EDIT_PAGE = 'USER_EDIT_PAGE';
+export const USER_PAGE = 'USER_PAGE';
+export const USER_MENU_PAGE = 'USER_MENU_PAGE';
+export const USER_POSTS_PAGE = 'USER_POSTS_PAGE';

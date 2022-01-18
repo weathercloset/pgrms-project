@@ -1,0 +1,13 @@
+export { default as CommentsPage } from './CommentsPage';
+export { default as ExplorePage } from './ExplorePage';
+export { default as HomePage } from './HomePage';
+export { default as LoginPage } from './LoginPage';
+export { default as NotFoundPage } from './NotFoundPage';
+export { default as NotificationsPage } from './NotificationsPage';
+export { default as UserPage } from './UserPage';
+export { default as UserMenuPage } from './UserMenuPage';
+export { default as SignupPage } from './SignupPage';
+export { default as UploadPage } from './UploadPage';
+export { default as UserEditPage } from './UserEditPage';
+export { default as UserPostsPage } from './UserPostsPage';
+export { default as PostPage } from './PostPage';
