@@ -4,7 +4,7 @@
 ### 웨더클로젯(WeatherCloset) : 날씨의 옷장☀️🌈⛈❄️☃️ 
 - 웨더클로젯은 날씨에 맞는, 나에게 맞는 옷을 찾게 도와주는 서비스입니다.
 
-<img src="https://user-images.githubusercontent.com/28250027/140721200-813d7f4f-7df1-4943-b846-4a964cc41899.png" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/28250027/140721200-813d7f4f-7df1-4943-b846-4a964cc41899.png" width="300" height="300"/>
 
 # 프로젝트 타겟, 목표
 
